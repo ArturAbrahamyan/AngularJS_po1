@@ -1,0 +1,57 @@
+@media (max-width: 600px){
+	.startNow h1 {
+    line-height: 1;
+	}
+	.carousel-home img {
+    height: 266px !important;
+	}
+	.carousel-home .carousel-title {
+    font-size: 25px;
+	}
+	.btnOnImg button {
+    padding: 16px 23px;
+	}
+	.hidden-md{
+		display: none;
+	}
+}
+
+@media (max-width: 414px){
+	.carousel-home img {
+    height: 184px !important;
+	}
+	.carousel-home .carousel-title {
+    font-size: 19px;
+	}
+	.carousel-home .carousel-control {
+    height: 57px;
+	}
+	.startCompain button {
+    padding: 9px 56px;
+	}
+	.btnOnImg button {
+    padding: 7px 8px;
+    bottom: 14px;
+    right: 32px;
+    font-size: 19px;
+	}
+	.nonePaddingDivs img {
+    height: 117px !important;
+	}
+
+}
+
+@media (max-width: 320px){
+	.carousel-home img {
+    height: 110px !important;
+	}
+	.carousel-home .carousel-title {
+    font-size: 13px;
+	}
+	.btnOnImg button {
+    font-size: 15px;
+	}
+	.nonePaddingDivs img {
+    height: 71px !important;
+	}
+}
